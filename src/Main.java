@@ -6,6 +6,7 @@ public class Main {
         task2();
         task3();
         task4();
+        task5();
     }
 
     public static void task1() {
@@ -89,5 +90,9 @@ public class Main {
             }
         }
         System.out.println(Arrays.toString(arr1));
+    }
+
+    public static void task5() {
+        System.out.println("Задача 5");
     }
 }
